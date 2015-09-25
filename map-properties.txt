@@ -1,0 +1,730 @@
+about http://purl.org/dc/elements/1.1/description
+acceptedOffer http://drop
+acceptedPaymentMethod http://drop
+acceptsReservations
+accessCode
+accessibilityAPI http://drop
+accessibilityControl http://drop
+accessibilityFeature http://drop
+accessibilityHazard http://drop
+accountablePerson
+acquiredFrom
+action
+activeIngredient
+activityDuration
+activityFrequency
+actor
+actors
+addOn
+additionalName http://dbpedia.org/property/otherName
+additionalType http://drop
+additionalVariable
+address http://resolve
+addressCountry http://dbpedia.org/ontology/locationCountry
+addressLocality http://dbpedia.org/ontology/locality
+addressRegion http://dbpedia.org/ontology/region
+administrationRoute
+advanceBookingRequirement
+adverseOutcome
+affectedBy
+affiliation http://dbpedia.org/property/affiliation
+agent
+aggregateRating http://drop
+album
+albums
+alcoholWarning
+algorithm
+alignmentType
+alternateName
+alternativeHeadline
+alumni http://dbpedia.org/ontology/alumni
+alumniOf http://dbpedia.org/ontology/alumni
+amountOfThisGood
+antagonist
+applicableLocation
+applicationCategory
+applicationSubCategory
+applicationSuite
+appliesToDeliveryMethod http://drop
+appliesToPaymentMethod http://drop
+area
+areaServed
+arterialBranch
+articleBody http://drop
+articleSection
+aspect
+assembly
+assemblyVersion
+associatedAnatomy
+associatedArticle
+associatedMedia
+associatedPathophysiology
+athletes http://dbpedia.org/ontology/team
+attendee http://dbpedia.org/ontology/participant
+attendees http://dbpedia.org/ontology/participant
+audience
+audienceType
+audio
+author http://dbpedia.org/ontology/author
+availability http://drop
+availabilityEnds http://drop
+availabilityStarts http://drop
+availableAtOrFrom
+availableChannel
+availableDeliveryMethod http://drop
+availableFrom
+availableIn
+availableLanguage
+availableService
+availableStrength
+availableTest
+availableThrough
+averageGoals http://drop
+totalGames http://drop
+award http://dbpedia.org/ontology/awardName
+awards http://dbpedia.org/ontology/award
+background
+baseSalary
+benefits
+bestRating http://drop
+billingAddress
+billingIncrement
+biomechnicalClass
+birthDate http://dbpedia.org/ontology/birthDate
+bitrate
+blogPost http://drop
+blogPosts http://drop
+bloodSupply
+bodyLocation
+bookEdition
+bookFormat
+borrower
+box
+branch
+branchOf http://drop
+brand http://dbpedia.org/property/brand
+breadcrumb http://drop
+breastfeedingWarning
+broadcaster
+browserRequirements
+businessFunction
+buyer
+byArtist
+calories
+candidate
+capacity http://dbpedia.org/property/seatingCapacity
+caption http://dbpedia.org/ontology/depictionDescription
+carbohydrateContent
+carrier
+carrierRequirements
+catalog
+category http://drop
+cause
+causeOf
+champion http://dbpedia.org/property/champion
+championship http://dbpedia.org/property/championship
+childMaxAge
+childMinAge
+children
+cholesterolContent
+circle
+citation
+clincalPharmacology
+clipNumber
+closes
+code
+codeRepository
+codeValue
+codingSystem
+colleague http://dbpedia.org/property/colleague
+colleagues
+collection
+color http://dbpedia.org/property/color
+comment http://drop
+commentText http://drop
+commentTime http://drop
+comprisedOf
+confirmationNumber
+connectedTo
+contactOption
+contactPoint http://resolve
+contactPoints http://resolve
+contactType
+containedIn http://dbpedia.org/ontology/locatedInArea
+contentLocation http://dbpedia.org/ontology/location
+contentRating http://drop
+contentSize
+contentUrl http://dbpedia.org/property/url
+contraindication
+contributor
+cookTime
+cookingMethod
+copyrightHolder
+copyrightYear
+cost
+costCategory
+costCurrency
+costOrigin
+costPerUnit
+countriesNotSupported
+countriesSupported
+course
+creator http://dbpedia.org/ontology/author
+currenciesAccepted http://drop
+customer
+dataset
+date http://dbpedia.org/ontology/date
+dateCreated http://dbpedia.org/ontology/dateCompleted
+dateModified http://dbpedia.org/property/date
+datePosted http://dbpedia.org/property/date
+datePublished http://dbpedia.org/property/date
+dateline
+dayOfWeek
+deathDate http://dbpedia.org/ontology/deathDate
+deliveryAddress
+deliveryLeadTime
+deliveryMethod
+deliveryStatus
+department http://drop
+dependencies
+depth
+description http://dbpedia.org/ontology/description
+device
+diagnosis
+diagram
+diet
+dietFeatures
+differentialDiagnosis
+director
+directors
+discount
+discountCode
+discountCurrency
+discusses
+discussionUrl
+distance
+distinguishingSign
+distribution
+domainIncludes
+doorTime
+dosageForm
+doseSchedule
+doseUnit
+doseValue
+downloadUrl
+drainsTo
+drug
+drugClass
+drugUnit
+duns
+duplicateTherapy
+duration http://dbpedia.org/ontology/duration
+durationOfWarranty
+editor
+educationRequirements
+educationalAlignment
+educationalFramework
+educationalRole
+educationalUse
+elevation http://dbpedia.org/ontology/elevation
+eligibleCustomerType http://drop
+eligibleDuration
+eligibleQuantity
+eligibleRegion
+eligibleTransactionVolume
+email http://dbpedia.org/property/email
+embedUrl http://dbpedia.org/property/url
+employee http://dbpedia.org/ontology/employer
+employees http://dbpedia.org/ontology/employer
+employmentType
+encodesCreativeWork
+encoding
+encodingFormat
+encodings
+endDate http://dbpedia.org/ontology/endDate
+endTime
+endorsee
+endorsers
+entertainmentBusiness
+epidemiology
+episode
+episodeNumber
+episodes
+equal
+estimatesRiskOf
+event
+eventStatus
+event http://dbpedia.org/ontology/participant
+events http://dbpedia.org/ontology/participant
+evidenceLevel
+evidenceOrigin
+exercisePlan
+exerciseType
+exifData
+expectedArrivalFrom
+expectedArrivalUntil
+expectedPrognosis
+experienceRequirements
+expertConsiderations
+expires
+familyName http://xmlns.com/foaf/0.1/familyName
+fatContent
+faxNumber http://dbpedia.org/property/fax
+featureList
+fiberContent
+fileFormat
+fileSize
+followee
+follows
+followup
+foodEstablishment
+foodEvent
+foodWarning
+founder http://dbpedia.org/property/founder
+founders http://dbpedia.org/property/founder
+foundingDate http://dbpedia.org/ontology/foundingDate
+free
+frequency
+fromLocation
+function
+functionalClass
+gender http://xmlns.com/foaf/0.1/gender
+genre http://dbpedia.org/ontology/genre
+geo http://resolve
+geographicArea
+givenName http://xmlns.com/foaf/0.1/givenName
+globalLocationNumber
+greater
+greaterOrEqual
+gtin13
+gtin14
+gtin8
+guideline
+guidelineDate
+guidelineSubject
+hasDeliveryMethod
+hasPOS
+headline http://drop
+healthCondition
+height http://dbpedia.org/property/height
+highPrice
+hiringOrganization http://drop
+homeLocation http://resolve
+honorificPrefix http://xmlns.com/foaf/0.1/title	
+honorificSuffix http://xmlns.com/foaf/0.1/title
+hospitalAffiliation
+hoursAvailable
+howPerformed
+identifyingExam
+identifyingTest
+illustrator
+image http://dbpedia.org/ontology/Image
+imagingTechnique
+inAlbum
+inLanguage
+inPlaylist
+incentives
+includedRiskFactor
+includesObject
+increasesRiskOf
+indication
+industry http://drop
+infectiousAgent
+infectiousAgentClass
+ingredients
+insertion
+installUrl
+instrument
+intensity
+interactingDrug
+interactionCount http://drop
+interactivityType
+inventoryLevel
+isAccessoryOrSparePartFor
+isAvailableGenerically
+isBasedOnUrl
+isConsumableFor
+isFamilyFriendly
+isGift
+isPartOf
+isProprietary
+isRelatedTo
+isSimilarTo
+isVariantOf
+isbn
+isicV4
+issuedBy http://drop
+issuedThrough http://drop
+itemCondition http://drop
+itemListElement http://drop
+itemListOrder http://drop
+itemOffered http://drop
+itemReviewed http://drop
+itemShipped http://drop
+jobLocation http://drop
+jobTitle http://dbpedia.org/ontology/occupation
+keywords http://drop
+knows http://xmlns.com/foaf/0.1/knows
+labelDetails
+landlord
+language
+lastReviewed http://drop
+latitude http://dbpedia.org/property/latitude
+learningResourceType
+legalName http://dbpedia.org/property/legalName
+legalStatus
+lender
+lesser
+lesserOrEqual
+line
+location http://resolve
+logo http://dbpedia.org/property/logo
+longitude http://dbpedia.org/property/longitude
+loser
+lowPrice
+mainContentOfPage http://drop
+makesOffer http://drop
+manufacturer
+map http://dbpedia.org/property/url
+maps
+materials http://dbpedia.org/property/materials
+maxPrice
+maxValue
+maximumIntake
+mechanismOfAction
+medicalSpecialty
+medicineSystem
+memberOf http://dbpedia.org/ontology/affiliation
+members http://dbpedia.org/ontology/almaMater
+memoryRequirements
+mentions
+menu
+merchant
+minPrice
+minValue
+model
+mpn
+musicBy
+musicGroupMember
+naics http://drop
+name http://dbpedia.org/property/name
+nationality http://dbpedia.org/property/nationality
+naturalProgression
+nerve
+nerveMotor
+nonEqual
+nonProprietaryName
+normalRange
+numTracks
+numberOfEpisodes http://dbpedia.org/property/numEpisodes
+numberOfPages http://dbpedia.org/property/pages
+numberOfSeasons http://dbpedia.org/property/numSeasons
+numberofEmployees http://dbpedia.org/ontology/numberOfEmployees
+nutrition
+object
+occupationalCategory
+offerCount http://drop
+offers http://drop
+office http://drop
+openingHours http://drop
+openingHoursSpecification http://drop
+opens
+operatingSystem
+oponent
+option
+organizer http://drop
+orderDate
+orderNumber
+orderStatus
+orderedItem
+origin
+originAddress
+originatesFrom
+outcome
+overdosage
+overview
+ownedFrom
+ownedThrough
+owns
+Painting/technique http://dbpedia.org/ontology/technique
+Painting/style http://dbpedia.org/ontology/style
+Painting/accountablePerson http://drop
+parent
+parentService
+parents
+partOfEpisode
+partOfOrder
+partOfSeason
+partOfSeries
+partOfSystem
+partOfTVSeries
+participant http://dbpedia.org/ontology/participant
+pathophysiology
+paymentAccepted http://drop
+paymentDue http://drop
+paymentMethod http://drop
+paymentMethodId http://drop
+paymentUrl
+performer http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParticipantIn
+performerIn http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isParticipantIn
+performers http://dbpedia.org/ontology/team
+permissions
+permitAudience
+phase
+photo http://dbpedia.org/ontology/Image
+photos http://drop
+physiologicalBenefits
+playerType
+polygon
+population
+position
+positionName http://dbpedia.org/property/shortDescription
+possibleComplication
+possibleTreatment
+postOfficeBoxNumber http://drop
+postOp
+postalCode http://dbpedia.org/ontology/postalCode
+preOp
+predecessorOf
+pregnancyCategory
+pregnancyWarning
+prepTime
+preparation
+prescribingInfo
+prescriptionStatus
+previousStartDate
+price http://dbpedia.org/property/price
+priceCurrency http://dbpedia.org/ontology/currency
+priceRange http://dbpedia.org/property/price
+priceSpecification http://drop
+priceType http://drop
+priceValidUntil http://drop
+primaryImageOfPage
+primaryPrevention
+printColumn
+printEdition
+printPage
+printSection
+procedure
+procedureType
+processingTime
+processorRequirements
+producer
+produces
+productID http://drop
+productSupported http://drop
+productionCompany
+proficiencyLevel
+programmingLanguage
+programmingModel
+proprietaryName
+proteinContent
+provider
+providesService
+publication
+publicationType
+publishedOn
+publisher http://dbpedia.org/ontology/publisher
+publishingPrinciples
+purpose
+qualifications
+query
+question
+rangeIncludes
+ratingCount http://drop
+ratingValue http://drop
+realEstateAgent
+recipe
+recipeCategory
+recipeCuisine
+recipeInstructions
+recipeYield
+recipient
+recognizingAuthority
+recommendationStrength
+recommendedIntake
+regionDrained
+regionsAllowed
+relatedAnatomy
+relatedCondition
+relatedDrug
+relatedLink http://dbpedia.org/ontology/wikiPageExternalLink
+relatedStructure
+relatedTherapy
+relatedTo
+releaseDate
+releaseNotes
+relevantSpecialty
+repetitions
+replacee
+replacer
+replyToUrl
+representativeOfPage
+requiredGender
+requiredMaxAge
+requiredMinAge
+requirements
+requiresSubscription
+responsibilities
+restPeriods
+result 
+resultReview
+review http://drop
+reviewBody http://drop
+reviewCount http://drop
+reviewRating http://drop
+reviewedBy
+reviews http://drop
+riskFactor
+risks
+runsTo
+runtime
+safetyConsideration
+salaryCurrency
+sameAs http://www.w3.org/2002/07/owl#sameAs
+sampleType
+saturatedFatContent
+scheduledTime
+screenshot
+season
+seasonNumber
+seasons
+secondaryPrevention
+seeks
+seller
+sender
+sensoryUnit
+serialNumber
+seriousAdverseOutcome
+servesCuisine
+serviceArea
+serviceAudience
+serviceLocation
+serviceOperator
+servicePhone
+servicePostalAddress
+serviceSmsNumber
+serviceType
+serviceUrl
+servingSize
+sibling
+siblings
+signDetected
+signOrSymptom
+significance
+significantLink http://dbpedia.org/ontology/wikiPageExternalLink
+significantLinks http://dbpedia.org/ontology/wikiPageExternalLink
+size http://dbpedia.org/property/size
+skills
+sku http://drop
+sodiumContent
+softwareVersion
+source
+sourceOrganization
+sourcedFrom
+spatial
+specialCommitments
+specialty
+sponsor
+sportsActivityLocation
+sportsEvent
+sportsTeam
+SportsTeam/member http://dbpedia.org/ontology/team
+SportsTeam/employee http://dbpedia.org/ontology/team
+spouse
+stage
+stageAsNumber
+startDate http://dbpedia.org/ontology/startDate
+startTime
+status
+storageRequirements
+streetAddress http://dbpedia.org/property/streetaddress
+strengthUnit
+strengthValue
+structuralClass
+study
+studyDesign
+studyLocation
+studySubject
+subEvent http://dbpedia.org/event
+subEvents http://dbpedia.org/event
+subOrganization
+subStageSuffix
+subStructure
+subTest
+subtype
+successorOf
+sugarContent
+suggestedGender
+suggestedMaxAge
+suggestedMinAge
+superEvent http://drop
+supplyTo
+targetDescription
+targetName
+targetPlatform
+targetPopulation
+targetProduct
+targetUrl
+taxID
+telephone http://dbpedia.org/property/telephone
+temporal
+text http://dbpedia.org/property/description
+thumbnail http://dbpedia.org/ontology/thumbnail
+thumbnailUrl http://dbpedia.org/ontology/thumbnail
+tickerSymbol
+timeRequired
+tissueSample
+title http://dbpedia.org/ontology/title
+toLocation
+totalTime
+totalGoals http://dbpedia.org/property/totalGoals
+track
+trackingNumber
+trackingUrl
+tracks
+trailer
+transFatContent
+transcript
+transmissionMethod
+trialDesign
+tributary
+typeOfGood http://drop
+typicalAgeRange http://drop
+typicalTest
+unitCode
+unsaturatedFatContent
+uploadDate
+url http://dbpedia.org/property/url
+usedToDiagnose
+usesDevice
+validFor
+validFrom
+validIn
+validThrough
+validUntil
+value
+valueAddedTaxIncluded
+valueReference
+vatID
+vendor
+version
+video http://drop
+videoFrameSize
+videoQuality
+warning
+warranty
+warrantyPromise
+warrantyScope
+weight
+width http://dbpedia.org/property/width
+winner
+wordCount
+workHours
+workLocation http://dbpedia.org/ontology/location
+workload
+worksFor http://dbpedia.org/property/affiliation
+worstRating http://drop
+year http://dbpedia.org/property/year
+yearlyRevenue http://dbpedia.org/ontology/revenue
+yearsInOperation
