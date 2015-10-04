@@ -1,636 +1,655 @@
-APIReference
-AboutPage
-AcceptAction http://drop
-AccountingService http://dbpedia.org/ontology/Company
-AchieveAction http://drop
-Action http://drop
-ActionStatusType
-ActivateAction http://drop
-AddAction http://drop
-AdministrativeArea http://dbpedia.org/ontology/AdministrativeRegion
-AdultEntertainment http://dbpedia.org/ontology/Company
-AggregateOffer http://drop
-AggregateRating http://drop
-AgreeAction http://drop
-Airline http://dbpedia.org/ontology/Airline
-Airport http://dbpedia.org/ontology/Airport
-AlignmentObject
-AllocateAction http://drop
-AmusementPark http://dbpedia.org/ontology/Company
-AnatomicalStructure http://dbpedia.org/ontology/AnatomicalStructure
-AnatomicalSystem
-AnimalShelter http://dbpedia.org/ontology/Company
-Answer
-ApartmentComplex http://drop
-AppendAction http://drop
-ApplyAction http://drop
-ApprovedIndication
-Aquarium
-ArriveAction http://drop
-ArtGallery http://dbpedia.org/ontology/Company
-Artery http://dbpedia.org/ontology/Artery
-Article http://drop
-AskAction http://drop
-AssessAction http://drop
-AssignAction http://drop
-Attorney http://dbpedia.org/ontology/Lawyer
-Audience
-AudioObject http://resolve
-AuthorizeAction http://drop
-AutoBodyShop http://dbpedia.org/ontology/Company
-AutoDealer http://dbpedia.org/ontology/Company
-AutoPartsStore http://dbpedia.org/ontology/Company
-AutoRental http://dbpedia.org/ontology/Company
-AutoRepair http://dbpedia.org/ontology/Company
-AutoWash http://dbpedia.org/ontology/Company
-AutomatedTeller http://dbpedia.org/ontology/Company
-AutomotiveBusiness http://dbpedia.org/ontology/Company
-Bakery http://dbpedia.org/ontology/Company
-BankOrCreditUnion http://dbpedia.org/ontology/Company
-BarOrPub http://dbpedia.org/ontology/Company
-Beach http://dbpedia.org/class/yago/Beach109217230
-BeautySalon http://dbpedia.org/ontology/Company
-BedAndBreakfast http://dbpedia.org/ontology/Company
-BefriendAction http://drop
-BikeStore http://dbpedia.org/ontology/Company
-Blog http://drop
-BlogPosting http://drop
-BloodTest
-BoardingPolicyType
-BodyOfWater http://dbpedia.org/ontology/BodyOfWater
-Bone http://dbpedia.org/ontology/Bone
-Book http://dbpedia.org/ontology/Book
-BookFormatType
-BookSeries
-BookStore http://dbpedia.org/ontology/Company
-BookmarkAction http://drop
-BorrowAction http://drop
-BowlingAlley http://dbpedia.org/ontology/Company
-BrainStructure
-Brand http://drop
-BreadcrumbList http://drop
-Brewery http://dbpedia.org/ontology/Brewery
-BroadcastChannel
-BroadcastEvent http://dbpedia.org/ontology/Broadcaster
-BroadcastService
-BuddhistTemple
-BusReservation
-BusStation
-BusStop
-BusTrip
-BusinessAudience
-BusinessEntityType
-BusinessEvent http://dbpedia.org/ontology/event
-BusinessFunction
-BuyAction http://drop
-CableOrSatelliteService
-CafeOrCoffeeShop http://dbpedia.org/ontology/Company
-Campground http://drop
-Canal http://dbpedia.org/ontology/Canal
-CancelAction http://drop
-Car
-CarUsageType
-Casino http://dbpedia.org/ontology/Casino
-CatholicChurch
-Cemetery http://dbpedia.org/ontology/Cemetery
-CheckAction http://drop
-CheckInAction http://drop
-CheckOutAction http://drop
-CheckoutPage http://drop
-ChildCare http://dbpedia.org/ontology/Company
-ChildrensEvent http://dbpedia.org/ontology/event
-ChooseAction http://drop
-Church http://dbpedia.org/ontology/Church
-City http://dbpedia.org/ontology/City
-CityHall
-CivicStructure
-Class
-Clip
-ClothingStore http://dbpedia.org/ontology/Company
-Code
-CollectionPage http://drop
-CollegeOrUniversity http://dbpedia.org/ontology/College
-ComedyClub http://dbpedia.org/ontology/Company
-ComedyEvent http://dbpedia.org/ontology/event
-Comment http://drop
-CommentAction http://drop
-CommunicateAction http://drop
-ComputerStore http://dbpedia.org/ontology/Company
-ConfirmAction http://drop
-ConsumeAction http://drop
-ContactPage http://drop
-ContactPoint http://resolve
-ContactPointOption
-Continent http://dbpedia.org/ontology/Continent
-ControlAction http://drop
-ConvenienceStore http://dbpedia.org/ontology/Company
-CookAction http://drop
-Corporation http://dbpedia.org/ontology/Company
-Country http://dbpedia.org/ontology/Country
-Courthouse
-CreateAction http://drop
-CreativeWork http://dbpedia.org/ontology/Work
-CreativeWorkSeason
-CreativeWorkSeries
-CreditCard
-Crematorium
-DDxElement
-DanceEvent http://dbpedia.org/ontology/event
-DanceGroup
-DataCatalog
-DataDownload
-Dataset
-DatedMoneySpecification
-DayOfWeek
-DaySpa http://dbpedia.org/ontology/Company
-DeactivateAction http://drop
-DefenceEstablishment
-DeleteAction http://drop
-DeliveryChargeSpecification
-DeliveryEvent
-DeliveryMethod
-Demand
-Dentist http://dbpedia.org/ontology/Company
-DepartAction http://drop
-DepartmentStore http://dbpedia.org/ontology/Company
-DiagnosticLab
-DiagnosticProcedure
-Diet
-DietarySupplement
-DisagreeAction http://drop
-DiscoverAction http://drop
-DislikeAction http://drop
-Distance
-DonateAction http://drop
-DoseSchedule
-DownloadAction http://drop
-DrawAction http://drop
-DrinkAction http://drop
-DriveWheelConfigurationValue
-Drug http://dbpedia.org/ontology/Drug
-DrugClass
-DrugCost
-DrugCostCategory
-DrugLegalStatus
-DrugPregnancyCategory
-DrugPrescriptionStatus
-DrugStrength
-DryCleaningOrLaundry http://dbpedia.org/ontology/Company
-Duration
-EatAction http://drop
-EducationEvent http://dbpedia.org/ontology/SocietalEvent
-EducationalAudience
-EducationalOrganization http://dbpedia.org/ontology/EducationalInstitution
-Electrician http://dbpedia.org/ontology/Company
-ElectronicsStore http://dbpedia.org/ontology/Company
-ElementarySchool
-EmailMessage
-Embassy
-EmergencyService http://dbpedia.org/ontology/Company
-EmployeeRole
-EmploymentAgency http://dbpedia.org/ontology/Company
-EndorseAction http://drop
-Energy
-EngineSpecification
-EntertainmentBusiness http://dbpedia.org/ontology/Company
-EntryPoint
-Enumeration
-Episode
-Event http://dbpedia.org/ontology/Event
-EventReservation
-EventStatusType
-EventVenue http://dbpedia.org/ontology/Venue
-ExerciseAction http://drop
-ExerciseGym http://dbpedia.org/ontology/Company
-ExercisePlan
-FastFoodRestaurant
-Festival http://dbpedia.org/ontology/FilmFestival
-FilmAction http://drop
-FinancialService http://dbpedia.org/ontology/Company
-FindAction http://drop
-FireStation http://dbpedia.org/ontology/Company
-Flight
-FlightReservation
-Florist http://dbpedia.org/ontology/Company
-FollowAction http://drop
-FoodEstablishment
-FoodEstablishmentReservation
-FoodEvent http://dbpedia.org/ontology/event
-FurnitureStore http://dbpedia.org/ontology/Company
-Game
-GamePlayMode
-GameServer
-GameServerStatus
-GardenStore http://dbpedia.org/ontology/Company
-GasStation http://dbpedia.org/ontology/Company
-GatedResidenceCommunity http://dbpedia.org/ontology/GatedCommunity
-GeneralContractor http://dbpedia.org/ontology/Company
-GeoCoordinates http://resolve
-GeoShape
-GiveAction http://drop
-GolfCourse http://dbpedia.org/ontology/GolfCourse
-GovernmentBuilding
-GovernmentOffice http://dbpedia.org/ontology/Company
-GovernmentOrganization http://dbpedia.org/ontology/GovernmentAgency
-GovernmentPermit
-GovernmentService
-GroceryStore http://dbpedia.org/ontology/Company
-HVACBusiness http://dbpedia.org/ontology/Company
-HairSalon http://dbpedia.org/ontology/Company
-HardwareStore http://dbpedia.org/ontology/Company
-HealthAndBeautyBusiness http://dbpedia.org/ontology/Company
-HealthClub http://dbpedia.org/ontology/Company
-HighSchool http://dbpedia.org/ontology/highschool
-HinduTemple
-HistoryOfMatches http://drop
-HobbyShop http://dbpedia.org/ontology/Company
-HomeAndConstructionBusiness http://dbpedia.org/ontology/Company
-HomeGoodsStore http://dbpedia.org/ontology/Company
-Hospital http://dbpedia.org/ontology/Hospital
-Hostel http://dbpedia.org/ontology/Company
-Hotel http://dbpedia.org/ontology/Hotel
-HousePainter http://dbpedia.org/ontology/Company
-IceCreamShop http://dbpedia.org/ontology/Company
-IgnoreAction http://drop
-ImageGallery
-ImageObject http://resolve
-ImagingTest
-IndividualProduct
-InfectiousAgentClass
-InfectiousDisease
-InformAction http://drop
-InsertAction http://drop
-InstallAction http://drop
-InStock http://drop
-InsuranceAgency
-Intangible
-InteractAction http://drop
-InternetCafe http://dbpedia.org/ontology/Company
-InviteAction http://drop
-Invoice http://drop
-ItemAvailability http://drop
-ItemList http://drop
-ItemListOrderType http://drop
-ItemPage http://drop
-JewelryStore http://dbpedia.org/ontology/Company
-JobPosting http://drop
-JoinAction http://drop
-Joint
-LakeBodyOfWater http://dbpedia.org/ontology/Lake
-Landform
-LandmarksOrHistoricalBuildings http://dbpedia.org/ontology/HistoricPlace
-Language http://dbpedia.org/ontology/Language
-LeaveAction http://drop
-LegislativeBuilding
-LendAction http://drop
-Library http://dbpedia.org/ontology/Library
-LifestyleModification
-Ligament http://dbpedia.org/ontology/Ligament
-LikeAction http://drop
-LiquorStore http://dbpedia.org/ontology/Company
-ListItem http://drop
-ListenAction http://drop
-LiteraryEvent http://dbpedia.org/ontology/event
-LocalBusiness http://dbpedia.org/ontology/Company
-LockerDelivery
-Locksmith http://dbpedia.org/ontology/Company
-LodgingBusiness http://dbpedia.org/ontology/Company
-LodgingReservation
-LoseAction http://drop
-LymphaticVessel
-Map
-MapCategoryType
-MarryAction http://drop
-Mass
-MaximumDoseSchedule
-MediaObject
-MedicalAudience
-MedicalCause
-MedicalClinic http://dbpedia.org/ontology/Hospital
-MedicalCode
-MedicalCondition
-MedicalConditionStage
-MedicalContraindication
-MedicalDevice
-MedicalDevicePurpose
-MedicalEntity
-MedicalEnumeration
-MedicalEvidenceLevel
-MedicalGuideline
-MedicalGuidelineContraindication
-MedicalGuidelineRecommendation
-MedicalImagingTechnique
-MedicalIndication
-MedicalIntangible
-MedicalObservationalStudy
-MedicalObservationalStudyDesign
-MedicalOrganization http://dbpedia.org/ontology/Company
-MedicalProcedure
-MedicalProcedureType
-MedicalRiskCalculator
-MedicalRiskEstimator
-MedicalRiskFactor
-MedicalRiskScore
-MedicalScholarlyArticle
-MedicalSign
-MedicalSignOrSymptom
-MedicalSpecialty
-MedicalStudy
-MedicalStudyStatus
-MedicalSymptom
-MedicalTest
-MedicalTestPanel
-MedicalTherapy
-MedicalTrial
-MedicalTrialDesign
-MedicalWebPage http://drop
-MedicineSystem
-MensClothingStore http://dbpedia.org/ontology/Company
-MiddleSchool
-MobileApplication http://drop
-MobilePhoneStore http://dbpedia.org/ontology/Company
-Mosque http://dbpedia.org/ontology/Mosque
-Motel http://dbpedia.org/ontology/Company
-MotorcycleDealer http://dbpedia.org/ontology/Company
-MotorcycleRepair http://dbpedia.org/ontology/Company
-Mountain http://dbpedia.org/ontology/Mountain
-MoveAction http://drop
-Movie http://dbpedia.org/ontology/Film
-MovieClip
-MovieRentalStore http://dbpedia.org/ontology/Company
-MovieSeries
-MovieTheater http://dbpedia.org/ontology/Company
-MovingCompany http://dbpedia.org/ontology/Company
-Muscle http://dbpedia.org/ontology/Muscle
-Museum http://dbpedia.org/ontology/Museum
-MusicAlbum
-MusicAlbumProductionType
-MusicAlbumReleaseType
-MusicComposition
-MusicEvent http://dbpedia.org/ontology/event
-MusicGroup http://dbpedia.org/ontology/MusicalArtist
-MusicPlaylist
-MusicRecording
-MusicRelease
-MusicReleaseFormatType
-MusicStore http://dbpedia.org/ontology/Company
-MusicVenue http://dbpedia.org/ontology/Venue
-MusicVideoObject http://drop
-NGO http://dbpedia.org/ontology/Non-ProfitOrganisation
-NailSalon http://dbpedia.org/ontology/Company
-Nerve http://dbpedia.org/ontology/Nerve
-NewsArticle http://drop
-NightClub http://dbpedia.org/ontology/Company
-Notary http://dbpedia.org/ontology/Company
-NutritionInformation
-OceanBodyOfWater http://www.w3.org/2002/07/owl#Thing
-Offer http://drop
-OfferItemCondition http://drop
-OfficeEquipmentStore http://dbpedia.org/ontology/Company
-OnDemandEvent http://drop
-OpeningHoursSpecification http://drop
-Optician http://dbpedia.org/ontology/Company
-Order http://drop
-OrderAction http://drop
-OrderItem http://drop
-OrderStatus http://drop
-Organization http://dbpedia.org/ontology/Organisation
-OrganizationRole http://drop
-OrganizeAction http://drop
-OutletStore http://dbpedia.org/ontology/Company
-OwnershipInfo
-PaintAction http://drop
-Painting http://dbpedia.org/ontology/Painting
-PalliativeProcedure
-ParcelDelivery
-ParcelService
-ParentAudience
-Park http://dbpedia.org/ontology/Park
-ParkingFacility
-PathologyTest
-PawnShop http://dbpedia.org/ontology/Company
-PayAction http://drop
-PaymentChargeSpecification http://dbpedia.org/ontology/Company
-PaymentMethod http://dbpedia.org/ontology/Company
-PeopleAudience
-PerformAction http://drop
-PerformanceRole
-PerformingArtsTheater http://dbpedia.org/ontology/Theatre
-PerformingGroup
-Periodical
-Permit
-Person http://dbpedia.org/ontology/Person
-PetStore http://dbpedia.org/ontology/Company
-Pharmacy http://dbpedia.org/ontology/Company
-Photograph http://dbpedia.org/ontology/Photographer
-PhotographAction http://drop
-PhysicalActivity http://dbpedia.org/ontology/Company
-PhysicalActivityCategory http://dbpedia.org/ontology/Company
-PhysicalExam http://dbpedia.org/ontology/Company
-PhysicalTherapy http://dbpedia.org/ontology/Company
-Physician http://dbpedia.org/ontology/Company
-Place http://dbpedia.org/ontology/Place
-PlaceOfWorship
-PlanAction http://drop
-PlayAction http://drop
-Playground http://drop
-Plumber http://dbpedia.org/ontology/Company
-PoliceStation http://dbpedia.org/property/policeStation
-Pond
-PostOffice http://dbpedia.org/ontology/Company
-PostalAddress http://resolve
-PrependAction http://drop
-Preschool http://dbpedia.org/ontology/School
-PreventionIndication
-PriceSpecification http://drop
-Product http://dbpedia.org/ontology/product
-ProductModel
-ProfessionalService http://dbpedia.org/ontology/Company
-ProfilePage
-ProgramMembership http://dbpedia.org/ontology/Company
-Property
-PropertyValue
-PropertyValueSpecification
-PsychologicalTreatment
-PublicSwimmingPool http://dbpedia.org/ontology/Company
-PublicationEvent
-PublicationIssue
-PublicationVolume http://dbpedia.org/ontology/MultiVolumePublication
-QAPage http://dbpedia.org/ontology/Company
-QualitativeValue http://drop
-QuantitativeValue http://drop
-Quantity http://drop
-Question
-QuoteAction http://drop
-RVPark
-RadiationTherapy
-RadioChannel
-RadioClip
-RadioEpisode
-RadioSeason
-RadioSeries
-RadioStation http://dbpedia.org/ontology/RadioStation
-Rating http://drop
-ReactAction http://drop
-ReadAction http://drop
-RealEstateAgent http://dbpedia.org/ontology/Company
-ReceiveAction http://drop
-Recipe
-RecommendedDoseSchedule
-RecyclingCenter http://dbpedia.org/ontology/Company
-RegisterAction http://drop
-RejectAction http://drop
-RentAction http://drop
-RentalCarReservation
-ReplaceAction http://drop
-ReplyAction http://drop
-ReportedDoseSchedule
-Reservation http://dbpedia.org/ontology/Company
-ReservationPackage http://dbpedia.org/ontology/Company
-ReservationStatusType http://dbpedia.org/ontology/Company
-ReserveAction http://drop
-Reservoir
-Residence
-Restaurant http://dbpedia.org/ontology/Restaurant
-ResumeAction http://drop
-ReturnAction http://drop
-Review http://drop
-ReviewAction http://drop
-RiverBodyOfWater http://dbpedia.org/ontology/river
-Role
-RoofingContractor http://dbpedia.org/ontology/Company
-RsvpAction http://drop
-RsvpResponseType
-SaleEvent http://dbpedia.org/ontology/event
-ScheduleAction http://drop
-ScholarlyArticle
-School http://dbpedia.org/ontology/School
-ScreeningEvent
-Sculpture http://dbpedia.org/ontology/Sculpture
-SeaBodyOfWater http://www.w3.org/2002/07/owl#Thing
-SearchAction http://drop
-SearchResultsPage http://dbpedia.org/ontology/Company
-Season
-Seat
-SelfStorage http://dbpedia.org/ontology/Company
-SellAction http://drop
-SendAction http://drop
-Series
-Service
-ServiceChannel
-ShareAction http://drop
-ShoeStore http://dbpedia.org/ontology/Company
-ShoppingCenter http://dbpedia.org/ontology/ShoppingMall
-SingleFamilyResidence
-SiteNavigationElement http://drop
-SkiResort http://dbpedia.org/ontology/SkiArea
-Person/SoccerPlayer http://dbpedia.org/ontology/SoccerPlayer
-Person/Coach http://dbpedia.org/ontology/Coach
-SocialEvent http://dbpedia.org/ontology/SocietalEvent
-SoftwareApplication http://dbpedia.org/ontology/Software
-SoftwareSourceCode
-SomeProducts
-Specialty
-SportingGoodsStore http://dbpedia.org/ontology/Company
-SportsActivityLocation http://dbpedia.org/ontology/Company
-SportsAthlete http://dbpedia.org/ontology/Athlete
-SportsClub http://dbpedia.org/ontology/Company
-SportsEvent http://dbpedia.org/ontology/SportsEvent
-SportsEvent/Match http://dbpedia.org/ontology/SportsEvent
-SportsEvent/Season http://dbpedia.org/ontology/SportsTeamSeason
-SportEvent/Match http://dbpedia.org/ontology/SportsEvent
-SportsOrganization
-SportsTeam http://dbpedia.org/ontology/SportsTeam
-StadiumOrArena http://dbpedia.org/ontology/Stadium
-State http://dbpedia.org/ontology/State
-SteeringPositionValue
-Store http://dbpedia.org/ontology/Company
-StructuredValue
-SubscribeAction http://drop
-SubwayStation http://dbpedia.org/ontology/MetroStation
-SuperficialAnatomy
-SuspendAction http://drop
-Synagogue http://dbpedia.org/ontology/Synagogue
-TVClip
-TVEpisode
-TVSeason
-TVSeries http://dbpedia.org/ontology/TelevisionShow
-Table
-TakeAction http://drop
-TattooParlor http://dbpedia.org/ontology/Company
-Taxi
-TaxiReservation
-TaxiService
-TaxiStand
-TechArticle
-TelevisionChannel
-TelevisionStation http://dbpedia.org/ontology/TelevisionStation
-TennisComplex http://dbpedia.org/ontology/Company
-TheaterEvent http://dbpedia.org/ontology/event
-TheaterGroup http://dbpedia.org/ontology/Theatre
-TherapeuticProcedure
-Thing http://dbpedia.org/ontology/Thing
-Ticket
-TieAction http://drop
-TipAction http://drop
-TireShop http://dbpedia.org/ontology/Company
-TouristAttraction http://dbpedia.org/ontology/Place
-TouristInformationCenter http://dbpedia.org/ontology/Company
-ToyStore http://dbpedia.org/ontology/Company
-TrackAction http://drop
-TradeAction http://drop
-TrainReservation http://drop
-TrainStation http://dbpedia.org/ontology/RailwayStation
-TrainTrip
-TransferAction http://drop
-TravelAction http://drop
-TravelAgency http://dbpedia.org/ontology/Company
-TreatmentIndication
-TypeAndQuantityNode
-UnRegisterAction http://drop
-UnitPriceSpecification
-UpdateAction http://drop
-UseAction http://drop
-UserBlocks http://drop
-UserCheckins http://drop
-UserComments http://drop
-UserDownloads http://drop
-UserInteraction http://drop
-UserLikes http://drop
-UserPageVisits http://drop
-UserPlays http://drop
-UserPlusOnes http://drop
-UserTweets http://drop
-Vehicle
-Vein http://dbpedia.org/ontology/Vein
-Vessel
-VeterinaryCare http://dbpedia.org/ontology/Company
-VideoGallery
-VideoGame
-VideoGameClip
-VideoGameSeries
-VideoObject http://drop
-ViewAction http://drop
-VisualArtsEvent http://dbpedia.org/ontology/event
-VisualArtwork
-Volcano http://dbpedia.org/ontology/Volcano
-VoteAction http://drop
-WPAdBlock http://drop
-WPFooter http://drop
-WPHeader http://drop
-WPSideBar http://drop
-WantAction http://drop
-WarrantyPromise http://drop
-WarrantyScope http://drop
-WatchAction http://drop
-Waterfall http://dbpedia.org/ontology/Place
-WearAction http://drop
-WebApplication
-WebPage http://drop
-WebPageElement http://drop
-WebSite http://drop
-WholesaleStore http://dbpedia.org/ontology/Company
-WinAction http://drop
-Winery http://dbpedia.org/ontology/Winery
-WriteAction http://drop
-Zoo http://dbpedia.org/ontology/Zoo
+aboutpage
+acceptaction http://drop
+accountingservice http://dbpedia.org/ontology/Company
+achieveaction http://drop
+action http://drop
+actionstatustype http://drop
+activateaction http://drop
+addaction http://drop
+administrativearea http://dbpedia.org/ontology/AdministrativeRegion
+adultentertainment http://dbpedia.org/ontology/Company
+aggregateoffer http://drop
+aggregaterating http://drop
+agreeaction http://drop
+airline http://dbpedia.org/ontology/Airline
+airport http://dbpedia.org/ontology/Airport
+alignmentobject http://drop
+allocateaction http://drop
+amusementpark http://dbpedia.org/ontology/Company
+anatomicalstructure http://dbpedia.org/ontology/AnatomicalStructure
+anatomicalsystem http://drop
+animalshelter http://dbpedia.org/ontology/Company
+answer http://drop
+apartmentcomplex http://drop
+apireference
+appendaction http://drop
+applyaction http://drop
+approvedindication
+aquarium
+arriveaction http://drop
+artery http://dbpedia.org/ontology/Artery
+artgallery http://dbpedia.org/ontology/Company
+article http://drop
+askaction http://drop
+assessaction http://drop
+assignaction http://drop
+attorney http://dbpedia.org/ontology/Lawyer
+audience http://drop
+audioobject http://resolve
+authorizeaction http://drop
+autobodyshop http://dbpedia.org/ontology/Company
+autodealer http://dbpedia.org/ontology/Company
+automatedteller http://dbpedia.org/ontology/Company
+automotivebusiness http://dbpedia.org/ontology/Company
+autopartsstore http://dbpedia.org/ontology/Company
+autorental http://dbpedia.org/ontology/Company
+autorepair http://dbpedia.org/ontology/Company
+autowash http://dbpedia.org/ontology/Company
+bakery http://dbpedia.org/ontology/Company
+bankorcreditunion http://dbpedia.org/ontology/Company
+barorpub http://dbpedia.org/ontology/Company
+beach http://dbpedia.org/class/yago/Beach109217230
+beautysalon http://dbpedia.org/ontology/Company
+bedandbreakfast http://dbpedia.org/ontology/Company
+befriendaction http://drop
+bikestore http://dbpedia.org/ontology/Company
+blog http://drop
+blogposting http://drop
+bloodtest http://drop
+boardingpolicytype http://drop
+bodyofwater http://dbpedia.org/ontology/BodyOfWater
+bone http://dbpedia.org/ontology/Bone
+book http://dbpedia.org/ontology/Book
+bookformattype http://drop
+bookmarkaction http://drop
+bookseries
+bookstore http://dbpedia.org/ontology/Company
+borrowaction http://drop
+bowlingalley http://dbpedia.org/ontology/Company
+brainstructure
+brand http://drop
+breadcrumblist http://drop
+brewery http://dbpedia.org/ontology/Brewery
+broadcastchannel
+broadcastevent http://dbpedia.org/ontology/Broadcaster
+broadcastservice
+browserapplication http://drop
+buddhisttemple
+businessapplication http://drop
+businessaudience
+businessentitytype http://drop
+businessevent http://dbpedia.org/ontology/event
+businessfunction http://drop
+busreservation http://drop
+busstation
+busstop http://drop
+bustrip http://drop
+buyaction http://drop
+cableorsatelliteservice
+cafeorcoffeeshop http://dbpedia.org/ontology/Company
+camp http://drop
+campground http://drop
+canal http://dbpedia.org/ontology/Canal
+cancelaction http://drop
+car
+carusagetype http://drop
+casino http://dbpedia.org/ontology/Casino
+catholicchurch
+cemetery http://dbpedia.org/ontology/Cemetery
+checkaction http://drop
+checkinaction http://drop
+checkoutaction http://drop
+checkoutpage http://drop
+childcare http://dbpedia.org/ontology/Company
+childrensevent http://dbpedia.org/ontology/event
+chooseaction http://drop
+church http://dbpedia.org/ontology/Church
+city http://dbpedia.org/ontology/City
+cityhall
+civicstructure http://dbpedia.org/ontology/Building
+class
+clip
+clothingstore http://dbpedia.org/ontology/Company
+code
+collectionpage http://drop
+collegeoruniversity http://dbpedia.org/ontology/College
+comedyclub http://dbpedia.org/ontology/Company
+comedyevent http://dbpedia.org/ontology/event
+comment http://drop
+commentaction http://drop
+communicateaction http://drop
+communicationapplication http://drop
+computerstore http://dbpedia.org/ontology/Company
+confirmaction http://drop
+consumeaction http://drop
+contactpage http://drop
+contactpoint http://resolve
+contactpointoption
+continent http://dbpedia.org/ontology/Continent
+controlaction http://drop
+conveniencestore http://dbpedia.org/ontology/Company
+cookaction http://drop
+corporation http://dbpedia.org/ontology/Company
+country http://dbpedia.org/ontology/Country
+courthouse
+createaction http://drop
+creativework http://dbpedia.org/ontology/Work
+creativeworkseason
+creativeworkseries
+creditcard http://drop
+crematorium
+danceevent http://dbpedia.org/ontology/event
+dancegroup
+datacatalog http://drop
+datadownload http://drop
+dataset http://drop
+datedmoneyspecification http://drop
+dayofweek http://drop
+dayspa http://dbpedia.org/ontology/Company
+ddxelement
+deactivateaction http://drop
+defenceestablishment
+deleteaction http://drop
+deliverychargespecification http://drop
+deliveryevent http://drop
+deliverymethod http://drop
+demand
+dentist http://dbpedia.org/ontology/Company
+departaction http://drop
+departmentstore http://dbpedia.org/ontology/Company
+designapplication http://drop
+diagnosticlab
+diagnosticprocedure
+diet
+dietarysupplement
+disagreeaction http://drop
+discoveraction http://drop
+dislikeaction http://drop
+distance
+donateaction http://drop
+doseschedule http://drop
+downloadaction http://drop
+drawaction http://drop
+drinkaction http://drop
+drivewheelconfigurationvalue
+drug http://dbpedia.org/ontology/Drug
+drugclass
+drugcost
+drugcostcategory
+druglegalstatus
+drugpregnancycategory
+drugprescriptionstatus
+drugstrength
+drycleaningorlaundry http://dbpedia.org/ontology/Company
+duration
+eataction http://drop
+ebook http://dbpedia.org/ontology/Book
+educationalaudience
+educationalorganization http://dbpedia.org/ontology/EducationalInstitution
+educationevent http://dbpedia.org/ontology/SocietalEvent
+electrician http://dbpedia.org/ontology/Company
+electronicsstore http://dbpedia.org/ontology/Company
+elementaryschool
+emailmessage
+embassy
+emergencyservice http://dbpedia.org/ontology/Company
+employeerole
+employmentagency http://dbpedia.org/ontology/Company
+endorseaction http://drop
+energy
+enginespecification http://drop
+entertainmentbusiness http://dbpedia.org/ontology/Company
+entrypoint
+enumeration
+episode
+event http://dbpedia.org/ontology/Event
+eventreservation http://drop
+eventstatustype http://drop
+eventvenue http://dbpedia.org/ontology/Venue
+exerciseaction http://drop
+exercisegym http://dbpedia.org/ontology/Company
+exerciseplan http://drop
+fastfoodrestaurant http://dbpedia.org/ontology/Restaurant
+festival http://dbpedia.org/ontology/FilmFestival
+filmaction http://drop
+financialservice http://dbpedia.org/ontology/Company
+findaction http://drop
+firestation http://dbpedia.org/ontology/Company
+flight http://drop
+flightreservation http://drop
+florist http://dbpedia.org/ontology/Company
+followaction http://drop
+foodestablishment http://dbpedia.org/ontology/Restaurant
+foodestablishmentreservation http://drop
+foodevent http://dbpedia.org/ontology/event
+furniturestore http://dbpedia.org/ontology/Company
+game
+gameapplication http://drop
+gameplaymode http://drop
+gameserver http://drop
+gameserverstatus http://drop
+gardenstore http://dbpedia.org/ontology/Company
+gasstation http://dbpedia.org/ontology/Company
+gatedresidencecommunity http://dbpedia.org/ontology/GatedCommunity
+generalcontractor http://dbpedia.org/ontology/Company
+geocoordinates http://resolve
+geoshape
+giveaction http://drop
+golfcourse http://dbpedia.org/ontology/GolfCourse
+governmentbuilding
+governmentoffice http://dbpedia.org/ontology/Company
+governmentorganization http://dbpedia.org/ontology/GovernmentAgency
+governmentpermit
+governmentservice
+grocerystore http://dbpedia.org/ontology/Company
+hairsalon http://dbpedia.org/ontology/Company
+hardcover http://drop
+hardwarestore http://dbpedia.org/ontology/Company
+healthandbeautybusiness http://dbpedia.org/ontology/Company
+healthclub http://dbpedia.org/ontology/Company
+highschool http://dbpedia.org/ontology/highschool
+hindutemple
+historyofmatches http://drop
+hobbyshop http://dbpedia.org/ontology/Company
+homeandconstructionbusiness http://dbpedia.org/ontology/Company
+homegoodsstore http://dbpedia.org/ontology/Company
+hospital http://dbpedia.org/ontology/Hospital
+hostel http://dbpedia.org/ontology/Company
+hotel http://dbpedia.org/ontology/Hotel
+housepainter http://dbpedia.org/ontology/Company
+hvacbusiness http://dbpedia.org/ontology/Company
+icecreamshop http://dbpedia.org/ontology/Company
+ignoreaction http://drop
+imagegallery http://drop
+imageobject http://resolve
+imagingtest http://drop
+individualproduct http://drop
+infectiousagentclass
+infectiousdisease
+informaction http://drop
+insertaction http://drop
+installaction http://drop
+instock http://drop
+insuranceagency
+intangible
+interactaction http://drop
+internetcafe http://dbpedia.org/ontology/Company
+inviteaction http://drop
+invoice http://drop
+itemavailability http://drop
+itemlist http://drop
+itemlistordertype http://drop
+itempage http://drop
+jewelrystore http://dbpedia.org/ontology/Company
+jobposting http://drop
+joinaction http://drop
+joint
+lakebodyofwater http://dbpedia.org/ontology/Lake
+landform
+landmarksorhistoricalbuildings http://dbpedia.org/ontology/HistoricPlace
+language http://dbpedia.org/ontology/Language
+leaveaction http://drop
+legislativebuilding
+lendaction http://drop
+library http://dbpedia.org/ontology/Library
+lifestylemodification
+ligament http://dbpedia.org/ontology/Ligament
+likeaction http://drop
+liquorstore http://dbpedia.org/ontology/Company
+listenaction http://drop
+listitem http://drop
+literaryevent http://dbpedia.org/ontology/event
+localbusiness http://dbpedia.org/ontology/Company
+lockerdelivery
+locksmith http://dbpedia.org/ontology/Company
+lodgingbusiness http://dbpedia.org/ontology/Hotel
+lodgingbusinessamenity http://dbpedia.org/ontology/Hotel
+lodgingreservation http://drop
+loseaction http://drop
+lymphaticvessel
+map http://drop
+mapcategorytype http://drop
+marryaction http://drop
+mass
+maximumdoseschedule http://drop
+mediaobject
+medicalaudience http://drop
+medicalcause http://drop
+medicalclinic http://dbpedia.org/ontology/Hospital
+medicalcode http://drop
+medicalcondition http://drop
+medicalconditionstage http://drop
+medicalcontraindication http://drop
+medicaldevice http://drop
+medicaldevicepurpose http://drop
+medicalentity http://drop
+medicalenumeration http://drop
+medicalevidencelevel http://drop
+medicalguideline http://drop
+medicalguidelinecontraindication http://drop
+medicalguidelinerecommendation http://drop
+medicalimagingtechnique http://drop
+medicalindication http://drop
+medicalintangible http://drop
+medicalobservationalstudy http://drop
+medicalobservationalstudydesign http://drop
+medicalorganization http://dbpedia.org/ontology/Company
+medicalprocedure http://drop
+medicalproceduretype http://drop
+medicalriskcalculator http://drop
+medicalriskestimator http://drop
+medicalriskfactor http://drop
+medicalriskscore http://drop
+medicalscholarlyarticle http://drop
+medicalsign http://drop
+medicalsignorsymptom http://drop
+medicalspecialty http://drop
+medicalstudy http://drop
+medicalstudystatus http://drop
+medicalsymptom http://drop
+medicaltest http://drop
+medicaltestpanel http://drop
+medicaltherapy http://drop
+medicaltrial http://drop
+medicaltrialdesign http://drop
+medicalwebpage http://drop
+medicinesystem http://drop
+mensclothingstore http://dbpedia.org/ontology/Company
+middleschool
+mobileapplication http://drop
+mobilephonestore http://dbpedia.org/ontology/Company
+mobilesoftwareapplication http://drop
+mosque http://dbpedia.org/ontology/Mosque
+motel http://dbpedia.org/ontology/Company
+motorcycledealer http://dbpedia.org/ontology/Company
+motorcyclerepair http://dbpedia.org/ontology/Company
+mountain http://dbpedia.org/ontology/Mountain
+moveaction http://drop
+movie http://dbpedia.org/ontology/Film
+movieclip
+movierentalstore http://dbpedia.org/ontology/Company
+movieseries
+movietheater http://dbpedia.org/ontology/Company
+movingcompany http://dbpedia.org/ontology/Company
+multimediaapplication http://drop
+muscle http://dbpedia.org/ontology/Muscle
+museum http://dbpedia.org/ontology/Museum
+musicalbum http://dbpedia.org/ontology/Album
+musicalbumproductiontype http://drop
+musicalbumreleasetype http://drop
+musiccomposition
+musicevent http://dbpedia.org/ontology/event
+musicgroup http://dbpedia.org/ontology/Band
+musicplaylist http://drop
+musicrecording http://dbpedia.org/ontology/Song
+musicrelease
+musicreleaseformattype http://drop
+musicstore http://dbpedia.org/ontology/Company
+musicvenue http://dbpedia.org/ontology/Venue
+musicvideoobject http://drop
+nailsalon http://dbpedia.org/ontology/Company
+namevaluestructure http://drop
+nerve http://dbpedia.org/ontology/Nerve
+networkingapplication http://drop
+newcondition http://drop
+newsarticle http://drop
+ngo http://dbpedia.org/ontology/Non-ProfitOrganisation
+nightclub http://dbpedia.org/ontology/Company
+notary http://dbpedia.org/ontology/Company
+nutritioninformation
+oceanbodyofwater http://www.w3.org/2002/07/owl#Thing
+offer http://drop
+offeritemcondition http://drop
+officeequipmentstore http://dbpedia.org/ontology/Company
+ondemandevent http://drop
+openinghoursspecification http://drop
+optician http://dbpedia.org/ontology/Company
+order http://drop
+orderaction http://drop
+orderitem http://drop
+orderstatus http://drop
+organization http://dbpedia.org/ontology/Organisation
+organizationrole http://drop
+organizeaction http://drop
+otherapplication http://drop
+outletstore http://dbpedia.org/ontology/Company
+outofstock http://drop
+ownershipinfo
+paintaction http://drop
+painting http://dbpedia.org/ontology/Painting
+palliativeprocedure
+paperback http://drop
+parceldelivery
+parcelservice
+parentaudience
+park http://dbpedia.org/ontology/Park
+parkingfacility
+pathologytest http://drop
+pawnshop http://dbpedia.org/ontology/Company
+payaction http://drop
+paymentchargespecification http://dbpedia.org/ontology/Company
+paymentmethod http://dbpedia.org/ontology/Company
+peopleaudience http://drop
+performaction http://drop
+performancerole
+performingartstheater http://dbpedia.org/ontology/Theatre
+performinggroup
+periodical
+permit
+person http://dbpedia.org/ontology/Person
+person/coach http://dbpedia.org/ontology/Coach
+person/soccerplayer http://dbpedia.org/ontology/SoccerPlayer
+petstore http://dbpedia.org/ontology/Company
+pharmacy http://dbpedia.org/ontology/Company
+photograph http://dbpedia.org/ontology/Photographer
+photographaction http://drop
+physicalactivity http://dbpedia.org/ontology/Company
+physicalactivitycategory http://dbpedia.org/ontology/Company
+physicalexam http://dbpedia.org/ontology/Company
+physicaltherapy http://dbpedia.org/ontology/Company
+physician http://dbpedia.org/ontology/Company
+place http://dbpedia.org/ontology/Place
+placeofworship
+planaction http://drop
+playaction http://drop
+playground http://drop
+plumber http://dbpedia.org/ontology/Company
+policestation http://dbpedia.org/property/policeStation
+pond
+postaladdress http://resolve
+postoffice http://dbpedia.org/ontology/Company
+prependaction http://drop
+preschool http://dbpedia.org/ontology/School
+preventionindication http://drop
+pricespecification http://drop
+product http://dbpedia.org/ontology/product
+productmodel
+professionalservice http://dbpedia.org/ontology/Company
+profilepage http://schema.org/WebPage
+programmembership http://dbpedia.org/ontology/Company
+property http://drop
+propertyvalue http://drop
+propertyvaluespecification http://drop
+psychologicaltreatment
+publicationevent http://drop
+publicationissue
+publicationvolume http://dbpedia.org/ontology/MultiVolumePublication
+publicswimmingpool http://dbpedia.org/ontology/Company
+qapage http://dbpedia.org/ontology/Company
+qualitativevalue http://drop
+quantitativevalue http://drop
+quantity http://drop
+question http://drop
+quoteaction http://drop
+radiationtherapy
+radiochannel
+radioclip
+radioepisode
+radioseason
+radioseries
+radiostation http://dbpedia.org/ontology/RadioStation
+rating http://drop
+reactaction http://drop
+readaction http://drop
+realestateagent http://dbpedia.org/ontology/Company
+receiveaction http://drop
+recipe http://drop
+recommendeddoseschedule http://drop
+recyclingcenter http://dbpedia.org/ontology/Company
+registeraction http://drop
+rejectaction http://drop
+rentaction http://drop
+rentalcarreservation http://drop
+replaceaction http://drop
+replyaction http://drop
+reporteddoseschedule http://drop
+reservation http://drop
+reservationpackage http://drop
+reservationstatustype http://drop
+reserveaction http://drop
+reservoir
+residence http://drop
+restaurant http://dbpedia.org/ontology/Restaurant
+resumeaction http://drop
+returnaction http://drop
+review http://drop
+reviewaction http://drop
+riverbodyofwater http://dbpedia.org/ontology/river
+role
+roofingcontractor http://dbpedia.org/ontology/Company
+rsvpaction http://drop
+rsvpresponsetype http://drop
+rvpark
+saleevent http://dbpedia.org/ontology/event
+scheduleaction http://drop
+scholarlyarticle http://drop
+school http://dbpedia.org/ontology/School
+screeningevent http://drop
+sculpture http://dbpedia.org/ontology/Sculpture
+seabodyofwater http://dbpedia.org/ontology/Sea
+searchaction http://drop
+searchresultspage http://dbpedia.org/ontology/Company
+season
+seat
+securityapplication http://drop
+selfstorage http://dbpedia.org/ontology/Company
+sellaction http://drop
+sendaction http://drop
+series
+service
+servicechannel
+shareaction http://drop
+shoestore http://dbpedia.org/ontology/Company
+shoppingcenter http://dbpedia.org/ontology/ShoppingMall
+singlefamilyresidence http://drop
+sitenavigationelement http://drop
+skiresort http://dbpedia.org/ontology/SkiArea
+socialevent http://dbpedia.org/ontology/SocietalEvent
+softwareapplication http://dbpedia.org/ontology/Software
+softwaresourcecode http://drop
+someproducts http://drop
+specialty http://drop
+sportevent/match http://dbpedia.org/ontology/SportsEvent
+sportinggoodsstore http://dbpedia.org/ontology/Company
+sportsactivitylocation http://dbpedia.org/ontology/Company
+sportsathlete http://dbpedia.org/ontology/Athlete
+sportsclub http://dbpedia.org/ontology/SportsClub
+sportsevent http://dbpedia.org/ontology/SportsEvent
+sportsevent/match http://dbpedia.org/ontology/SportsEvent
+sportsevent/season http://dbpedia.org/ontology/SportsTeamSeason
+sportsorganization http://dbpedia.org/ontology/SportsClub
+sportsteam http://dbpedia.org/ontology/SportsTeam
+stadiumorarena http://dbpedia.org/ontology/Stadium
+state http://dbpedia.org/ontology/State
+steeringpositionvalue http://drop
+store http://dbpedia.org/ontology/Company
+structuredvalue http://drop
+subscribeaction http://drop
+subwaystation http://dbpedia.org/ontology/MetroStation
+superficialanatomy http://drop
+suspendaction http://drop
+synagogue http://dbpedia.org/ontology/Synagogue
+table http://drop
+takeaction http://drop
+tattooparlor http://dbpedia.org/ontology/Company
+taxi http://drop
+taxireservation http://drop
+taxiservice http://drop
+taxistand http://drop
+techarticle http://drop
+televisionchannel
+televisionstation http://dbpedia.org/ontology/TelevisionStation
+tenniscomplex http://dbpedia.org/ontology/Company
+theaterevent http://dbpedia.org/ontology/event
+theatergroup http://dbpedia.org/ontology/Theatre
+therapeuticprocedure http://drop
+thing http://dbpedia.org/ontology/Thing
+ticket http://drop
+tieaction http://drop
+tipaction http://drop
+tireshop http://dbpedia.org/ontology/Company
+touristattraction http://dbpedia.org/ontology/Place
+touristinformationcenter http://dbpedia.org/ontology/Company
+toystore http://dbpedia.org/ontology/Company
+trackaction http://drop
+tradeaction http://drop
+trainreservation http://drop
+trainstation http://dbpedia.org/ontology/RailwayStation
+traintrip http://drop
+transferaction http://drop
+travelaction http://drop
+travelagency http://dbpedia.org/ontology/Company
+treatmentindication http://drop
+tvclip
+tvepisode http://dbpedia.org/ontology/TelevisionEpisode
+tvseason http://dbpedia.org/ontology/TelevisionSeason
+tvseries http://dbpedia.org/ontology/TelevisionShow
+typeandquantitynode http://drop
+unitpricespecification http://drop
+unregisteraction http://drop
+updateaction http://drop
+useaction http://drop
+userblocks http://drop
+usercheckins http://drop
+usercomments http://drop
+userdownloads http://drop
+userinteraction http://drop
+userlikes http://drop
+userpagevisits http://drop
+userplays http://drop
+userplusones http://drop
+usertweets http://drop
+utilitiesapplication http://drop
+vehicle
+vein http://dbpedia.org/ontology/Vein
+vessel
+veterinarycare http://dbpedia.org/ontology/Company
+videogallery
+videogame
+videogameclip
+videogameseries
+videoobject http://drop
+viewaction http://drop
+visualartsevent http://dbpedia.org/ontology/event
+visualartwork
+volcano http://dbpedia.org/ontology/Volcano
+voteaction http://drop
+wantaction http://drop
+warrantypromise http://drop
+warrantyscope http://drop
+watchaction http://drop
+waterfall http://dbpedia.org/ontology/Place
+wearaction http://drop
+webapplication http://drop
+webpage http://drop
+webpageelement http://drop
+website http://dbpedia.org/ontology/Website
+wholesalestore http://dbpedia.org/ontology/Company
+winaction http://drop
+winery http://dbpedia.org/ontology/Winery
+wpadblock http://drop
+wpfooter http://drop
+wpheader http://drop
+wpsidebar http://drop
+writeaction http://drop
+zoo http://dbpedia.org/ontology/Zoo
