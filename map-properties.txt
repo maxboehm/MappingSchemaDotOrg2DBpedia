@@ -32,6 +32,7 @@ advancebookingrequirement http://drop
 adverseoutcome
 affectedby
 affiliation http://dbpedia.org/property/affiliation
+age http://dbpedia.org/ontology/age
 agent
 aggregaterating http://drop
 album http://dbpedia.org/ontology/artist
@@ -57,6 +58,7 @@ areaserved
 arterialbranch
 articlebody http://drop
 articlesection http://drop
+artist http://dbpedia.org/ontology/artist
 aspect
 assembly
 assemblyversion
@@ -88,13 +90,14 @@ averagegoals http://drop
 award http://dbpedia.org/ontology/awardName
 awards http://dbpedia.org/ontology/award
 background
-basesalary
+basesalary http://drop
 benefits
 bestrating http://drop
 billingaddress
 billingincrement
 biomechnicalclass
 birthdate http://dbpedia.org/ontology/birthDate
+birthplace http://dbpedia.org/ontology/birthPlace
 bitrate
 blogpost http://drop
 blogposts http://drop
@@ -124,7 +127,9 @@ carbohydratecontent
 carrier
 carrierrequirements http://drop
 catalog
+categories http://drop
 category http://drop
+category_name http://drop
 cause
 causeof
 champion http://dbpedia.org/property/champion
@@ -159,11 +164,11 @@ contact http://drop
 contactoption
 contactpoint http://resolve
 contactpoints http://resolve
-contacttype
+contacttype http://drop
 containedin http://dbpedia.org/ontology/locatedInArea
 contentlocation http://dbpedia.org/ontology/location
 contentrating http://drop
-contentsize
+contentsize http://dbpedia.org/property/size
 contenturl http://dbpedia.org/property/url
 contraindication
 contributor http://dbpedia.org/ontology/writer
@@ -200,6 +205,7 @@ dayofweek
 dc.date.issued http://drop
 deals http://drop
 deathdate http://dbpedia.org/ontology/deathDate
+deathplace http://dbpedia.org/ontology/deathPlace
 deliveryaddress http://drop
 deliveryleadtime http://drop
 deliverymethod http://drop
@@ -270,9 +276,9 @@ endorsers
 endtime
 entertainmentbusiness
 epidemiology
-episode
+episode http://dbpedia.org/property/episodes
 episodenumber http://dbpedia.org/ontology/episodeNumber
-episodes
+episodes http://dbpedia.org/property/episodes
 equal
 estimatesriskof
 event http://dbpedia.org/ontology/participant
@@ -353,7 +359,7 @@ illustrator http://dbpedia.org/ontology/illustrator
 image http://dbpedia.org/ontology/picture
 imageurl http://dbpedia.org/property/url
 imagingtechnique
-inalbum
+inalbum http://dbpedia.org/ontology/album
 incentives
 includedriskfactor
 includesobject
@@ -368,7 +374,7 @@ inplaylist
 insertion
 installurl http://dbpedia.org/property/url
 instock http://drop
-instrument
+instrument http://drop
 intensity
 interactingdrug
 interactioncount http://drop
@@ -441,7 +447,8 @@ menu http://drop
 merchant
 minprice http://drop
 minvalue http://drop
-model
+model http://drop
+modifieddate http://drop
 movie/duration http://dbpedia.org/ontology/filmRuntime
 mpn
 mq:id http://drop
@@ -497,16 +504,16 @@ owns http://drop
 painting/accountableperson http://drop
 painting/style http://dbpedia.org/ontology/style
 painting/technique http://dbpedia.org/ontology/technique
-parent
+parent http://dbpedia.org/ontology/parent
 parents
 parentservice
 participant http://dbpedia.org/ontology/participant
-partofepisode
-partoforder
-partofseason
-partofseries
-partofsystem
-partoftvseries
+partofepisode http://dbpedia.org/ontology/isPartOf
+partoforder http://drop
+partofseason http://dbpedia.org/ontology/isPartOf
+partofseries http://dbpedia.org/ontology/isPartOf
+partofsystem http://dbpedia.org/ontology/isPartOf
+partoftvseries http://dbpedia.org/ontology/isPartOf
 pathophysiology
 paymentaccepted http://drop
 paymentdue http://drop
@@ -533,6 +540,7 @@ possibletreatment
 postalcode http://dbpedia.org/ontology/postalCode
 postofficeboxnumber http://drop
 postop
+potentialaction http://drop
 predecessorof
 pregnancycategory
 pregnancywarning
@@ -548,6 +556,7 @@ pricerange http://dbpedia.org/property/price
 pricespecification http://drop
 pricetype http://drop
 pricevaliduntil http://drop
+primary_genre http://dbpedia.org/ontology/genre
 primary_inscription http://drop
 primaryimageofpage http://drop
 primaryprevention
@@ -559,10 +568,10 @@ procedure
 proceduretype
 processingtime
 processorrequirements http://drop
-producer
+producer http://dbpedia.org/ontology/producer
 produces
 productid http://drop
-productioncompany
+productioncompany http://dbpedia.org/ontology/productionCompany
 productsupported http://drop
 proficiencylevel
 programminglanguage
@@ -665,8 +674,8 @@ servicesmsnumber
 servicetype
 serviceurl http://dbpedia.org/property/url
 servingsize
-sibling
-siblings
+sibling http://dbpedia.org/ontology/sibling
+siblings http://dbpedia.org/ontology/sibling
 signdetected
 significance
 significantlink http://dbpedia.org/ontology/wikiPageExternalLink
@@ -724,13 +733,14 @@ summary http://purl.org/dc/elements/1.1/description
 superevent http://drop
 supplyto
 tag http://drop
+tags http://drop
 targetdescription
 targetname
 targetplatform
 targetpopulation
 targetproduct
 targeturl http://dbpedia.org/property/url
-taxid
+taxid http://dbpedia.org/property/taxid
 telephone http://dbpedia.org/property/telephone
 temporal
 text http://dbpedia.org/property/description
@@ -745,7 +755,7 @@ tolocation
 totalgames http://drop
 totalgoals http://dbpedia.org/property/totalGoals
 totaltime
-track
+track http://dbpedia.org/property/song
 trackingnumber
 trackingurl http://dbpedia.org/property/url
 tracks http://dbpedia.org/ontology/product
@@ -757,6 +767,7 @@ trialdesign
 tributary
 type_evenement_1 http://drop
 typeofgood http://drop
+types http://drop
 typicalagerange http://drop
 typicaltest
 unitcode
@@ -775,6 +786,11 @@ value
 valueaddedtaxincluded
 valuereference
 vatid
+vehiclebodytype http://drop
+vehicleenginesize http://drop
+vehiclefueltype http://drop
+vehiclemileage http://drop
+vehicletransmission http://drop
 vendor
 venue http://drop
 version http://dbpedia.org/property/version
@@ -786,7 +802,7 @@ warning
 warranty
 warrantypromise
 warrantyscope
-weight
+weight http://dbpedia.org/ontology/weight
 width http://dbpedia.org/property/width
 winner
 wordcount

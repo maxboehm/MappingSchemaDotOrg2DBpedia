@@ -528,7 +528,7 @@ screeningevent http://drop
 sculpture http://dbpedia.org/ontology/Sculpture
 seabodyofwater http://dbpedia.org/ontology/Sea
 searchaction http://drop
-searchresultspage http://dbpedia.org/ontology/Company
+searchresultspage http://drop
 season
 seat
 securityapplication http://drop
@@ -646,6 +646,8 @@ webpageelement http://drop
 website http://dbpedia.org/ontology/Website
 wholesalestore http://dbpedia.org/ontology/Company
 winaction http://drop
+windowsactionhandler http://drop
+windowsphoneactionhandler http://drop
 winery http://dbpedia.org/ontology/Winery
 wpadblock http://drop
 wpfooter http://drop
