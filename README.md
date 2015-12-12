@@ -6,3 +6,6 @@ The URI http://resolve exists because of the different hierarchy-levels in the o
 
 ## Caution
 This mapping was created manually without taking care of range or domain. 
+
+## Use Case
+You do not know what to do with this project? Check out my [blog post on LOMI](https://www.maximilian-boehm.com/hp2125/LOMI-Enrich-Linked-Open-Data-DBpedia-with-Microdata.htm).
